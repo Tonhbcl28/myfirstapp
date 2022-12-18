@@ -1,0 +1,16 @@
+{
+  "en": {
+    "appTitle": "My First App",
+    "home": "Home",
+    "secondPage": "Second Page",
+    "nextPage": "Next Page",
+    "back": "Go Back"
+  },
+  "lo":{
+    "appTitle": "ແອັບຂອງຂ້ອຍ",
+    "home": "ຫນ້າຫລັກ",
+    "secondPage": "ຫນ້າທີ່ສອງ",
+    "nextPage": "ໜ້າໃໝ່",
+    "back": "ກັບຄືນ"
+}
+}
