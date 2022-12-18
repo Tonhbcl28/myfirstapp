@@ -3,10 +3,10 @@
 Learning flutter easy with me, mytreetechnology from Laos
 
 ## requirement
-flutter pub add provider
-flutter pub add shared_preferences
+1. flutter pub add provider
+2. flutter pub add shared_preferences
 
 ## Getting Started
-clone project
-flutter pub get
-flutter run
+1. clone project
+2. flutter pub get
+3. flutter run
